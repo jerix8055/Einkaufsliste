@@ -20,7 +20,6 @@ Nationalität: somewhere
 >Kenntnisse: *umfassend*
 
 >Hobbys: *Dies
-
 >* **Das**
 >* Jenes
 >    * Jeneres
